@@ -1,0 +1,19 @@
+.odd-numbered {
+  background-color: #ffb9b9;
+  font-family: "Liberation Mono", Verdana, "DejaVu Sans", serif;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#one-id {
+  color: #0000FF;
+  font-size: 36px;
+}
+
+#another-id {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
